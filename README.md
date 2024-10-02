@@ -29,3 +29,10 @@ Future Features
 
 Social Sharing: Connect with friends and share your success stories.
 Visualization Tools: Enhance your manifestation with tools like vision boards or guided meditations.
+
+
+## License
+
+© 2024 Channing Storgard. All rights reserved.
+
+This project and its contents, including the concept and code, are the intellectual property of Channing Storgard. Unauthorized use, modification, distribution, or reproduction of the code or idea is prohibited without explicit permission.
