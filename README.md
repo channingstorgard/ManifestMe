@@ -21,6 +21,7 @@ How to Use
 Submit Entries: Write about events or experiences as though they have already happened. Keep it positive and in the past tense (e.g., "I received an unexpected compliment").
 Review Your Entries: After a week, revisit your previous entries in the Review section. Mark the ones that have occurred and reflect on the progress you’ve made.
 Track Your Success: View your overall Success Rate and current manifestation streak in the Progress section to stay motivated in your journey.
+
 Why ManifestMe?
 
 ManifestMe is designed to help users shift their mindset from focusing on what they don’t have, to embracing what’s already on its way to them. The simple act of writing positive intentions daily can help foster a mindset of abundance and gratitude, while the delayed review process encourages reflection and self-growth.
