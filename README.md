@@ -31,6 +31,13 @@ Future Features
 Social Sharing: Connect with friends and share your success stories.
 Visualization Tools: Enhance your manifestation with tools like vision boards or guided meditations.
 
+Some screenshots of what the app looks like in use linked below:
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-10-02 at 15 15 18](https://github.com/user-attachments/assets/3349eb55-3368-42bf-bd01-59a28ad7d7ca)
+![Simulator Screenshot - iPhone 15 Pro - 2024-10-02 at 15 15 28](https://github.com/user-attachments/assets/4dc03096-85b6-45cc-b7f9-8145c44aa084)
+![Simulator Screenshot - iPhone 15 Pro - 2024-10-02 at 15 15 35](https://github.com/user-attachments/assets/39b3dcf1-b674-462b-942a-469547c45551)
+![Simulator Screenshot - iPhone 15 Pro - 2024-10-02 at 15 15 41](https://github.com/user-attachments/assets/78e1e5a6-284e-4d9f-8257-8b3b7a212ae0)
+
 
 ## License
 
